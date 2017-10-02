@@ -6,6 +6,8 @@
 * styled-components
 * reselect
 * redux-thunk
+* duck-types
+* atomic design
 
 # Возможности:
 ## Структуры отделов компании
